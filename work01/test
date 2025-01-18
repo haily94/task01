@@ -12,6 +12,7 @@ reload : 새로고침
 
 터미널 : cil?맞나 
 git pull : 동기화 > 터미널에서 해봤는데 안되서 그냥 버튼눌러서 동기화함
+git push가 동기화였나봐 이걸로 아홉 번째 커밋 동기화됐어
 
 github게시, public
 private로 잘못 눌렀어도 홈페이지, 세팅, danger zone에서 변경가능
