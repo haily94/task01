@@ -11,9 +11,11 @@ git과 github의 차이
 reload : 새로고침
 
 터미널 : cil?맞나 
-git pull : 동기화
+git pull : 동기화 > 터미널에서 해봤는데 안되서 그냥 버튼눌러서 동기화함
 
 github게시, public
 private로 잘못 눌렀어도 홈페이지, 세팅, danger zone에서 변경가능
+
+커멘드 s로 저장하기 잊지말기
 
 과제 끝
